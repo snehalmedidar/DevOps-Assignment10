@@ -1,7 +1,7 @@
 pipeline{
   environment{
     reg = "18021012/assignment10"
-    regCre = "docker_id2"
+    regCre = "snehal_docker_id"
     dockerImg = ""
   }
   agent any
